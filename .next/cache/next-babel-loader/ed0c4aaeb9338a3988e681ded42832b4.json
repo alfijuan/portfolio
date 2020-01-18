@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { Header as Header2 } from './header';","map":{"version":3,"sources":["/Users/juanito/Repositorios/portfolio-next/components/header/index.ts"],"names":["Header","Header2"],"mappings":"AAAA,SAASA,MAAM,IAAIC,OAAnB,QAAkC,UAAlC","sourcesContent":["export { Header as Header2 } from './header'"]},"metadata":{},"sourceType":"module"}

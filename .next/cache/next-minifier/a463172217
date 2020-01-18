@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{SpL8:function(n,t,o){\"use strict\";o.r(t);var e=o(\"q1tI\"),u=o.n(e),w=o(\"agMo\"),c=u.a.createElement;t.default=function(){return c(w.a,null)}},Tk32:function(n,t,o){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/projects\",function(){return o(\"SpL8\")}])}},[[\"Tk32\",0,2,1,11]]]);"}

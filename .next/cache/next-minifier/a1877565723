@@ -1,0 +1,1 @@
+{"code":"(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{QLSJ:function(n,t,c){(window.__NEXT_P=window.__NEXT_P||[]).push([\"/contact\",function(){return c(\"qARc\")}])},qARc:function(n,t,c){\"use strict\";c.r(t);var o=c(\"q1tI\"),u=c.n(o),e=c(\"agMo\"),w=u.a.createElement;t.default=function(){return w(e.a,null)}}},[[\"QLSJ\",0,2,1,3]]]);"}
