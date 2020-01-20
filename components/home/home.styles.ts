@@ -177,6 +177,9 @@ export const ContactLink = styled.a`
     position: absolute;
     top: 0;
     left: 0;
+    @media screen and (max-width: 600px){
+      font-size: 13px;
+    }
   }
   @media screen and (max-width: 340px){
     margin: 0;
