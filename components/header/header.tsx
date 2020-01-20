@@ -31,7 +31,7 @@ export const Header = () => {
               </Link>
             </NavListItem> */}
             <NavListItem>
-              <NavItemLink href="mailto://alfieri.juan@gmail.com" target="_blank">
+              <NavItemLink href="mailto:alfieri.juan@gmail.com" target="_blank">
                 <NavItemText data-hover="Contact">
                   Contact
                 </NavItemText>
