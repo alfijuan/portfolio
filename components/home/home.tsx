@@ -28,7 +28,7 @@ export const Home = () => {
               I'm a FullStack Developer based in Buenos Aires, Argentina.
               <Break>React & Django are my ❤️</Break>
               ¿Have a project where I can fit? 
-              <ContactLink href="mailto://alfieri.juan@gmail.com" target="_blank" data-hover="Let me know">
+              <ContactLink href="mailto:alfieri.juan@gmail.com" target="_blank" data-hover="Let me know">
                 <LinkText>Let me know</LinkText>
               </ContactLink>
             </Text>
