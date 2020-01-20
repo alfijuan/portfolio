@@ -182,6 +182,6 @@ export const ContactLink = styled.a`
     }
   }
   @media screen and (max-width: 340px){
-    margin: 0;
+    margin: 0 5px;
   }
 `;
