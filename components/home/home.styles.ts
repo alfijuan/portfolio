@@ -29,6 +29,24 @@ export const Title = styled.h1`
   font-size: 76px;
   line-height: 84px;
   font-weight: 600;
+  @media screen and (max-width: 1024px){
+    font-size: 70px;
+    line-height: 78px;
+  }
+  @media screen and (max-width: 768px){
+    font-size: 60px;
+    line-height: 68px;
+  }
+  @media screen and (max-width: 600px){
+    font-size: 30px;
+    line-height: 38px;
+  }
+  @media screen and (max-height: 500px){
+    @media screen and (max-width: 900px){
+      font-size: 40px;
+      line-height: 48px;
+    }
+  }
 `;
 
 export const Subtitle = styled.h3`
@@ -37,6 +55,24 @@ export const Subtitle = styled.h3`
   font-size: 76px;
   line-height: 84px;
   font-weight: 600;
+  @media screen and (max-width: 1024px){
+    font-size: 70px;
+    line-height: 78px;
+  }
+  @media screen and (max-width: 768px){
+    font-size: 60px;
+    line-height: 68px;
+  }
+  @media screen and (max-width: 600px){
+    font-size: 30px;
+    line-height: 38px;
+  }
+  @media screen and (max-height: 500px){
+    @media screen and (max-width: 900px){
+      font-size: 40px;
+      line-height: 48px;
+    }
+  }
 `;
 
 export const Divisor = styled.hr`
@@ -46,7 +82,15 @@ export const Divisor = styled.hr`
   border: 0;
   margin: 0;
   margin-top: 25px;
-
+  @media screen and (max-width: 600px){
+    width: 75px;
+    margin-top: 20px;
+  }
+  @media screen and (max-height: 500px){
+    @media screen and (max-width: 900px){
+      margin-top: 20px;
+    }
+  }
 `;
 
 export const Text = styled.p`
@@ -56,6 +100,22 @@ export const Text = styled.p`
   line-height: 27px;
   font-weight: 400;
   padding-top: 40px;
+  @media screen and (max-width: 768px){
+    font-size: 22px;
+    line-height: 36px;
+  }
+  @media screen and (max-width: 600px){
+    font-size: 11px;
+    line-height: 18px;
+    padding-top: 20px;
+  }
+  @media screen and (max-height: 500px){
+    @media screen and (max-width: 900px){
+      font-size: 14px;
+      line-height: 22px;
+      padding-top: 20px;
+    }
+  }
 `;
 
 export const Break = styled.span`
@@ -71,6 +131,12 @@ export const LinkText = styled.span`
   display: inline-flex;
   padding: 0 6px;
   transition: transform 0.3s;
+  @media screen and (max-width: 768px){
+    font-size: 20px;
+  }
+  @media screen and (max-width: 600px){
+    font-size: 13px;
+  }
 `;
 
 export const ContactLink = styled.a`
@@ -111,5 +177,8 @@ export const ContactLink = styled.a`
     position: absolute;
     top: 0;
     left: 0;
+  }
+  @media screen and (max-width: 340px){
+    margin: 0;
   }
 `;

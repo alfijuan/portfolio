@@ -18,7 +18,7 @@ export const Header = () => {
       <Container>
         <NavRow>
           <Link href="/">
-            <LinkStyled>Logo</LinkStyled>
+            <LinkStyled>JCA</LinkStyled>
           </Link>
           <NavList>
             {/* <NavListItem>

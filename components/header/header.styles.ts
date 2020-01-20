@@ -20,6 +20,7 @@ export const LinkStyled = styled.a`
   width: 200px;
   color: #C87C37;
   cursor: pointer;
+  font-size: 25px;
   text-decoration: none!important;
 `;
 
@@ -64,5 +65,9 @@ export const NavItemLink = styled.a`
     ${NavItemText}{
       transform: translateY(-100%);
     }
+  }
+  @media screen and (max-width: 600px){
+    font-size: 15px;
+    line-height: 20px;
   }
 `

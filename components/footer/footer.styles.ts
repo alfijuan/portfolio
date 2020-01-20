@@ -20,6 +20,10 @@ export const FooterRow = styled.div`
 
 export const FooterLinkedin = styled.a`
   color: #FFFFFF;
+  @media screen and (max-width: 600px){
+    font-size: 13px;
+    line-height: 18px;
+  }
 `;
 
 export const FooterNext = styled.p`
@@ -27,7 +31,10 @@ export const FooterNext = styled.p`
   font-size: 14px;
   line-height: 18px;
   overflow: hidden;
-
+  @media screen and (max-width: 600px){
+    font-size: 11px;
+    line-height: 15px;
+  }
 `;
 
 export const NextLink = styled.a`
