@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { Layout } from './layout';","map":{"version":3,"sources":["/Users/juanito/Repositorios/portfolio-next/components/layout/index.ts"],"names":["Layout"],"mappings":"AAAA,SAASA,MAAT,QAAuB,UAAvB","sourcesContent":["export { Layout } from './layout'"]},"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { Error } from './error';","map":{"version":3,"sources":["/Users/juanito/Repositorios/portfolio-next/components/error/index.ts"],"names":["Error"],"mappings":"AAAA,SAASA,KAAT,QAAsB,SAAtB","sourcesContent":["export { Error } from './error'"]},"metadata":{},"sourceType":"module"}
